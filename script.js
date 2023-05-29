@@ -29,12 +29,7 @@ function calculateMinCost() {
 			}
 		}
     document.getElementById('result').innerHTML=`${sum}`;
-  console.log(sum);
 }  
 
-
-let a1 = [12,7,9];
-
-a1.sort();
 
 console.log(a1);
